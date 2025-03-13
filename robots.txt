@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://inovasimasadepan.github.io/beritaterkini/sitemap.xml
+Sitemap: httpshttps://futureforeseen.com/sitemap.xml
