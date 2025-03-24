@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: httpshttps://futureforeseen.com/sitemap.xml
+Sitemap: https://futureforeseen.com/sitemap.xml
